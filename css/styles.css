@@ -6,7 +6,31 @@ height: 1000px;
 }
 #back1  {
     background-image: url(https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?cs=srgb&dl=astronomy-constellation-dark-998641.jpg&fm=jpg);
-    height: 300px;
+    height: 300px; 
     
+}
+.word  {
+    font-family: 'Chilanka';
+    color: antiquewhite;
+    font-size: 50px;
+    padding-left: 35px;
+}
+.aria  {
+    font-family: 'Chilanka';
+    color: antiquewhite;
+    font-size: 30px;
+    padding-left: 35px;
     
+}
+.eat  {
+    font-family: 'Great Vibes';
+    color: white;
+    font-size: 20px;
+    padding-left: 35px;
+}
+#image  {padding-left: 50px;
+
+}
+#piz{
+    margin-left: 60%;
 }
