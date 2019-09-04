@@ -1,45 +1,40 @@
-.back  { 
+.back{ 
     background-image: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?cs=srgdl=background-brown-carpentry-326311.jpg&fm=jpg);
-background-size: cover;
-height: 1000px;
-
+    background-size: cover;
+    height: 850px;
 }
-#back1  {
+#back1{
     background-image: url(https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?cs=srgb&dl=astronomy-constellation-dark-998641.jpg&fm=jpg);
     height: 300px; 
-    
 }
-.word  {
+.word{
     font-family: 'Chilanka';
     color: antiquewhite;
     font-size: 50px;
     padding-left: 35px;
     text-align: center;
 }
-.aria  {
+.aria{
     font-family: 'Chilanka';
     color: antiquewhite;
     font-size: 30px;
     padding-left: 35px;
     text-align: center;
-    
 }
-.eat  {
+.eat{
     font-family: 'Great Vibes';
     color: white;
     font-size: 20px;
     padding-left: 35px;
     text-align: center;
 }
-#image  {padding-left: 50px;
-
+#image{
+    padding-left: 50px;
 }
 #number{
     color: lawngreen;
     padding-left: 80px;
     width:25%;
-
-    
 }
 .pizzaarea{
     padding-top: 50%;

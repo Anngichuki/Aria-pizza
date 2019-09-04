@@ -13,4 +13,3 @@ JavaScript-For programming behavior of web pages
 Jquery- JavaScript library that makes it easy to make web pages interactive
 #### License and Copyright information
 This project used the MIT license. MIT License is free of charge, to any person obtaining a copy of this software to deal without restriction. They can use, copy, modify, merge, publish, distribute, sublicense,and sell copies of the Software.
-
