@@ -14,12 +14,14 @@ height: 1000px;
     color: antiquewhite;
     font-size: 50px;
     padding-left: 35px;
+    text-align: center;
 }
 .aria  {
     font-family: 'Chilanka';
     color: antiquewhite;
     font-size: 30px;
     padding-left: 35px;
+    text-align: center;
     
 }
 .eat  {
@@ -27,10 +29,18 @@ height: 1000px;
     color: white;
     font-size: 20px;
     padding-left: 35px;
+    text-align: center;
 }
 #image  {padding-left: 50px;
 
 }
-#piz{
-    margin-left: 60%;
+#number{
+    color: lawngreen;
+    padding-left: 80px;
+    width:25%;
+
+    
+}
+.pizzaarea{
+    padding-top: 50%;
 }
